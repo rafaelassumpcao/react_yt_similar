@@ -14,12 +14,12 @@ E Depois acesse o repositorio da sua pasta fazendo:
 now to install all dependencies from package.json you just need type:<br>
 Agora para instalar todas as dependências do package.json, você só precisa digitar:
 
-    <code>npm install</code>
+    npm install
 
 or as an shortcut<br>
 ou como um atalho.
 
-    <code>npm i</code>
+    npm i
 
 now that all has been settled up, and no errors has been found ...<br>
 Agora que tudo foi resolvido e nenhum erro foi encontrado ...
@@ -27,7 +27,7 @@ Agora que tudo foi resolvido e nenhum erro foi encontrado ...
 you just need to run the project running the following command:<br>
 Você só precisa rodar o projeto executando o seguinte comando:
 
-    <code>npm run project</code>
+    npm run project
     
 If everything went well, you are expected to have a server running on port 8080 on your locahost<br>
 (Se tudo correu bem, espera-se que um servidor funcione na porta 8080 no seu localhost)
