@@ -1,0 +1,8 @@
+{
+  "presets": ["babel-preset-env", "react"],
+  "plugins": [
+    "dynamic-import-webpack", 
+    "syntax-dynamic-import",
+    "transform-object-rest-spread"   
+  ]
+}
