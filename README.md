@@ -33,3 +33,5 @@ If everything went well, you are expected to have a server running on port 8080 
 (Se tudo correu bem, espera-se que um servidor funcione na porta 8080 no seu localhost)
 
 http://localhost:8080
+
+...
