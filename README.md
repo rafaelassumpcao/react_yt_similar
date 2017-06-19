@@ -4,12 +4,12 @@ Youtube web interface project consuming youtube search api  with react  and axio
 First of all, please clone this repository by doing this on your terminal:<br>
 Em primeiro lugar, por favor clone este repositório, fazendo isso em seu terminal:
 
-    <code>git clone https://github.com/rafaelassumpcao/react_yt_similar.git</code>
+    git clone https://github.com/rafaelassumpcao/react_yt_similar.git
 
 and then jump into  your folder's repository doing:<br>
 E Depois acesse o repositorio da sua pasta fazendo:
 
-    <code>cd react_yt_similar/</code>
+    cd react_yt_similar/
 
 now to install all dependencies from package.json you just need type:<br>
 Agora para instalar todas as dependências do package.json, você só precisa digitar:
