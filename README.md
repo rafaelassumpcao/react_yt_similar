@@ -6,24 +6,30 @@ First of all, please clone this repository by doing this on your terminal:<br>
 
     <code>git clone https://github.com/rafaelassumpcao/react_yt_similar.git</code>
 
-and then enter in your folder repository doing:
+and then jump into  your folder's repository doing:<br>
+(E Depois acesse o repositorio da sua pasta fazendo:)
 
     <code>cd react_yt_similar/</code>
 
-now to install all dependecys from package.json you just need type:
+now to install all dependencies from package.json you just need type:<br>
+(Agora para instalar todas as dependências do package.json, você só precisa digitar:)
 
     <code>npm install</code>
 
-or as an shorthand 
+or as an shortcut<br>
+(ou como um atalho)
 
     <code>npm i</code>
 
-now that all has been settled up, and no errors occur...
+now that all has been settled up, and no errors has been found ...<br>
+(Agora que tudo foi resolvido e nenhum erro foi encontrado ...)
 
-you just need to run the project running the following command:
+you just need to run the project running the following command:<br>
+(Você só precisa rodar o projeto executando o seguinte comando:)
 
     <code>npm run project</code>
     
-If everything went well, you are expected to have a server running on port 8080 on your locahost
+If everything went well, you are expected to have a server running on port 8080 on your locahost<br>
+(Se tudo correu bem, espera-se que um servidor funcione na porta 8080 no seu localhost)
 
 http://localhost:8080
